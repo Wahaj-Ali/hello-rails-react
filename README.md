@@ -27,7 +27,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# Hello world- <a name="about-project"></a>
+# Hello Rails-React <a name="about-project"></a>
 
 **Hello world** is the eductional project to connect with Ruby on Rails and React. In this exercise I have connected previous knowledge with new knowledge as I get a chance to use Webpack with jsbundling-rails gem.
 
