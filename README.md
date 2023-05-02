@@ -68,7 +68,7 @@
 
 ### Setup
 
-  * Clone this repository by running `git clone https://github.com/developertariq/hello-rails-react.git` in your command line.
+  * Clone this repository by running `https://github.com/Wahaj-Ali/hello-rails-react.git` in your command line.
 
   * Navigate to the repository by running `cd hello-rails-react`.
 
