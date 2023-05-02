@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { getRandomMessage } from '../Redux/Messages/messagesReducer';
 
-const Message = () => { 
+const Greeting = () => { 
   const dispatch = useDispatch();
   const { message, error } = useSelector((state) => state.messages);
 
@@ -17,4 +17,4 @@ const Message = () => {
   );
 }
 
-export default Message;
+export default Greeting;
