@@ -9,7 +9,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [Hello world- ](#hello-world--)
+- [Hello Rails-React ](#hello-world--)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
   - [Key Features ](#key-features-)
@@ -29,7 +29,7 @@
 
 # Hello Rails-React <a name="about-project"></a>
 
-**Hello world** is the eductional project to connect with Ruby on Rails and React. In this exercise I have connected previous knowledge with new knowledge as I get a chance to use Webpack with jsbundling-rails gem.
+**Hello Rails-Reac** is the eductional project to connect with Ruby on Rails and React. In this exercise I have connected previous knowledge with new knowledge as I get a chance to use Webpack with jsbundling-rails gem.
 
 ## 🛠 Built With <a name="built-with"></a>
 
